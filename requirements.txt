@@ -12,5 +12,5 @@ pycosat==0.6.3
 pytz==2018.5
 requests==2.19.1
 ruamel.yaml==0.15.72
-urllib3==1.23
+urllib3==1.26.5
 wincertstore==0.2
